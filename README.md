@@ -8,7 +8,7 @@ Jogo da velha ou o Jogo do Galo foi criado durante o curso de linguagem de progr
 #include <conio.h>
 #include <windows.h>
 
-// Subprogramas e variáveis globais
+Subprogramas e variáveis globais
 char tabuleiro[3][3];
 int vitoriasJogador = 0;
 int vitoriasMaquina = 0;
